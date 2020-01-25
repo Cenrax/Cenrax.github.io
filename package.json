@@ -1,11 +1,11 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "5.1.8",
+    "title": "Resume",
+    "name": "startbootstrap-resume",
+    "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
     "keywords": [
         "css",
         "sass",
@@ -14,9 +14,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -26,14 +26,13 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
         "jquery": "3.4.1",
-        "jquery.easing": "^1.4.1",
-        "magnific-popup": "^1.1.0"
+        "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
